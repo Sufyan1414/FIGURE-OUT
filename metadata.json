@@ -1,0 +1,6 @@
+{
+  "name": "Figure Out",
+  "description": "Figure Out - Premium web development portfolio website featuring GSAP scroll-triggered animations, interactive client dashboard, blog with content management, and embedded analytics tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
